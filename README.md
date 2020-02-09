@@ -2,7 +2,7 @@
 server and client Python Socket
 
 Run $ python3 server.py &  
-in terminal to begin server
+    in terminal to begin server
 
 Run $ python3 client.py
 to test client side
